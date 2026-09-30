@@ -1,2 +1,2 @@
-# nuevo-repositorio-cris
+# Git 
 Primer repositorio de prueba en GitHub
